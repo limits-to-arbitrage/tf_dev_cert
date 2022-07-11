@@ -1,2 +1,2 @@
 # Week 1
-All notebooks for week 1 assignments.
+Personal notes for exercises form week 1.
